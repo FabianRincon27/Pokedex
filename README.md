@@ -97,3 +97,8 @@ npm run dev
 ```bash
 http://localhost:5173
 ```
+
+### 3️⃣ Ejecutar los test
+```bash
+npm run test
+```
