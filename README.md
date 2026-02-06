@@ -12,7 +12,6 @@ El proyecto está desarrollado con **NestJS** para el backend y **React + Vite**
 - **NestJS**
 - **JWT Authentication**
 - **REST API**
-- **Base de datos** (MySQL / PostgreSQL / SQLite según configuración)
 - **Axios**
 
 ### Frontend
