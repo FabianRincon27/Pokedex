@@ -1,0 +1,60 @@
+[
+  {
+    "userId": "681ea738-e2ae-41a1-97f2-3a94efd00b3d",
+    "items": [
+      {
+        "pokemonId": 1,
+        "name": "bulbasaur",
+        "price": 24000,
+        "quantity": 1
+      },
+      {
+        "pokemonId": 4,
+        "name": "charmander",
+        "price": 36000,
+        "quantity": 2
+      },
+      {
+        "pokemonId": 3,
+        "name": "venusaur",
+        "price": 32000,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "userId": "d675342a-e6bd-4c8a-94aa-edafac9144f1",
+    "items": [
+      {
+        "pokemonId": 2,
+        "name": "ivysaur",
+        "price": 28000,
+        "quantity": 2
+      },
+      {
+        "pokemonId": 5,
+        "name": "charmeleon",
+        "price": 40000,
+        "quantity": 1
+      },
+      {
+        "pokemonId": 4,
+        "name": "charmander",
+        "price": 36000,
+        "quantity": 1
+      },
+      {
+        "pokemonId": 3,
+        "name": "venusaur",
+        "price": 32000,
+        "quantity": 1
+      },
+      {
+        "pokemonId": 1,
+        "name": "bulbasaur",
+        "price": 24000,
+        "quantity": 1
+      }
+    ]
+  }
+]

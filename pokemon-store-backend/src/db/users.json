@@ -1,0 +1,17 @@
+[
+  {
+    "id": "681ea738-e2ae-41a1-97f2-3a94efd00b3d",
+    "email": "test@test.com",
+    "password": "$2b$10$RgitJ4YnS5zONZ1DbG28/OMqRlX2gHvB6zKg3HnzIMry9cENC2Mfa"
+  },
+  {
+    "id": "f38482be-4f15-432e-adc8-a51dca90d259",
+    "email": "Prueba@gmail.com",
+    "password": "$2b$10$Q0BJjfkwcEyN7VMqzUplyOZbid4yZmq.h.ZMc2SZxj.KUHd7OmRG2"
+  },
+  {
+    "id": "d675342a-e6bd-4c8a-94aa-edafac9144f1",
+    "email": "Entrenador@pokemon.com",
+    "password": "$2b$10$XcEM6Ukpp28uAM6Ry6aLCO1z14iQqAQRoNWbnil7Qhu/xbJiwQ7ke"
+  }
+]
